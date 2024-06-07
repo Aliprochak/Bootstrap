@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+.navbar {
+    background-color: rgb(158, 184, 102);
+}
+.navbar ul, li{
+    font-size: 40;
+    color: black;
+}
+form label{
+    font-size:20px;
+    font-weight: bolder;
+}
